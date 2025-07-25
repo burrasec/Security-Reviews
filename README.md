@@ -9,6 +9,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 3. [Centrifuge - Axelar/Wormhole cross-chain integration (3)](./reports/2025-05-Centrifuge-Report.pdf)
 4. [Brahma - LayerZero ONFT721 standard](./reports/2025-04-Brahma-Report.pdf)
 5. [PancakeSwap - Across cross-chain integration](./reports/2025-05-PancakeSwap-Protocol-Report.pdf)
+6. [Remilux - Staking contracts](./reports/2025-07-Remilux-Staking-Report.pdf)
 
 ## 2024
 
