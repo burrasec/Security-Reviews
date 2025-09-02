@@ -10,6 +10,8 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 4. [Brahma - LayerZero ONFT721 standard](./reports/2025-04-Brahma-Report.pdf)
 5. [PancakeSwap - Across cross-chain integration](./reports/2025-05-PancakeSwap-Protocol-Report.pdf)
 6. [Remilux - Staking contracts](./reports/2025-07-Remilux-Staking-Report.pdf)
+7. [Centrifuge - LayerZero cross-chain integration](./reports/2025-08-Centrifuge-LayerZeroAdapter.pdf)
+8. [LI.FI - Relay integration](./reports/2025.08.25-RelayDepositoryFacet(v1.0).pdf)
 
 ## 2024
 
