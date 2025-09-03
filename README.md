@@ -14,7 +14,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 8. [LI.FI - Relay integration](./reports/2025.08.25-RelayDepositoryFacet(v1.0).pdf)
 9. LI.FI - WhitelistManagerFaucet
 10. Undisclosed - Staking system
-11. Undisclosed -Tiered vault system
+11. Undisclosed - Tiered vault system
 
 ## 2024
 
