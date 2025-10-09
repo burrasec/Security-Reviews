@@ -15,7 +15,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 9. LI.FI - WhitelistManagerFaucet
 10. Undisclosed - Staking system
 11. Undisclosed - Tiered vault system
-12. LI.FI - Garden integration
+12. [LI.FI - Garden integration](./reports/2025.09.19-GardenFacet(v1.0.0).pdf)
 13. Centrifuge - Axelar/Wormhole/LayerZero cross-chain integration
 
 ## 2024
