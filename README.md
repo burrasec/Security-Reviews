@@ -21,7 +21,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 15. Undisclosed - Chainlink CCIP cross-chain integration
 16. Undisclosed - LayerZero cross-chain integration
 18. [LI.FI - LiFiIntentEscrowFacet](./reports/2025.11.20-LiFiIntentEscrowFacet(v1.0.0).pdf)
-19. Undisclosed - Polymarket UmaCtfAdapter fork 2
+19. Undisclosed - Polymarket UmaCtfAdapter fork 
 20. Undisclosed - Confidential Tokens
 
 
