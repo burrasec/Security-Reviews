@@ -22,7 +22,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 16. Undisclosed - LayerZero cross-chain integration
 18. [LI.FI - LiFiIntentEscrowFacet](./reports/2025.11.20-LiFiIntentEscrowFacet(v1.0.0).pdf)
 19. Undisclosed - Polymarket UmaCtfAdapter fork 
-20. Undisclosed - Confidential Tokens
+20. Undisclosed - Confidential tokens
 
 
 ## 2024
