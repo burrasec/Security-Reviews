@@ -24,7 +24,6 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 19. Undisclosed - Polymarket UmaCtfAdapter fork 
 20. Undisclosed - Confidential tokens
 
-
 ## 2024
 
 1. [GasBotV2 - Cross-chain refuel protocol](./reports/2024-GasbotV2-Report.pdf)
