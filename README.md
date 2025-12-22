@@ -24,6 +24,7 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 19. Undisclosed - Polymarket UmaCtfAdapter fork 
 20. Undisclosed - Confidential tokens
 21. [LI.FI - Patcher v1.0.1](./reports/2025.12.08-Patcher(v1.0.1).pdf)
+22. Undisclosed - Token Auction
 
 ## 2024
 
