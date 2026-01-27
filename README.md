@@ -18,13 +18,15 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 12. [LI.FI - Garden cross-chain integration](./reports/2025.09.19-GardenFacet(v1.0.0).pdf)
 13. [Centrifuge V3.1. - Axelar/Wormhole/LayerZero cross-chain integration (1)](./reports/2025-09-Centrifuge-V3.1-Report.pdf)
 14. [LI.FI - Eco cross-chain integration](./reports/2025.10.20-EcoFacet(v1.1.0).pdf)
-15. Undisclosed - Chainlink CCIP cross-chain integration
+15. [Centrifuge - Chainlink CCIP cross-chain integration](./reports/2025-10-Centrifuge-CCIP-Report.pdf)
 16. Undisclosed - LayerZero cross-chain integration
 18. [LI.FI - LiFiIntentEscrowFacet](./reports/2025.11.20-LiFiIntentEscrowFacet(v1.0.0).pdf)
 19. [Probable - Polymarket UmaCtfAdapter fork](./reports/2025-11-Probable-Report.pdf)
 20. [Zaiffer - Confidential tokens](./reports/2025-12-Zaiffer.pdf)
 21. [LI.FI - Patcher v1.0.1](./reports/2025.12.08-Patcher(v1.0.1).pdf)
 22. Undisclosed - Token Auction
+23. [Centrifuge V3.1. - Axelar/Wormhole/LayerZero cross-chain integration (2)](./reports/2025-10-Centrifuge-V3.1-Report.pdf)
+
 
 ## 2024
 
