@@ -2,6 +2,10 @@
 
 Reach out for a security review through Telegram [@windhustler](https://t.me/windhustler)
 
+## 2026
+
+1. [LI.FI - Mayan V2.0](./reports/2026.03.20-Mayan(V2.0).pdf)
+
 ## 2025
 
 1. [Centrifuge - Axelar/Wormhole cross-chain integration (1)](./reports/2025-04-Centrifuge-Report.pdf)
