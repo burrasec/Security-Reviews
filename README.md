@@ -5,6 +5,16 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 ## 2026
 
 1. [LI.FI - Mayan V2.0](./reports/2026.03.20-Mayan(V2.0).pdf)
+2. Undisclosed - BNB OFT deployment audit
+3. Undisclosed - Deployment audit
+4. Undisclosed - Solana OFT deployment audit
+5. Undisclosed - Staking contracts deployment audit
+6. [Tao - Hyperliquid bridge](./reports/2026-04-Tao-Hyperliquid-Bridge.pdf)
+7. Undisclosed - Confidential defi
+8. Undisclosed - Confidential wrappers
+9. [Centrifuge - On-chain portfolio manager](./reports/2026-04-Centrifuge-Onchain-PM.pdf)
+10. [Centrifuge - Passthrough vaults](./reports/2026-06-Centrifuge-Passthrough-Vaults.pdf)
+11. Undisclosed - Governance proposal builder
 
 ## 2025
 
