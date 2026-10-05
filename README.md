@@ -15,6 +15,24 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 9. [Centrifuge - On-chain portfolio manager](./reports/2026-04-Centrifuge-Onchain-PM.pdf)
 10. [Centrifuge - Passthrough vaults](./reports/2026-06-Centrifuge-Passthrough-Vaults.pdf)
 11. Undisclosed - Governance proposal builder
+12. [Centrifuge - Workflows](./reports/2026-06-Centrifuge-Workflows.pdf)
+13. Undisclosed - Confidential wrappers upgrade
+14. [Centrifuge - Token bridge](./reports/2026-07-Centrifuge-Token-Bridge.pdf)
+15. [Centrifuge - V3.3 (1)](./reports/2026-08-Centrifuge-V3.3.pdf)
+16. [Mentat Minds - Morpho Blue on Bittensor](./reports/2026-08-Mentat-Minds-Morpho-Blue-On-Bittensor.pdf)
+17. [Mentat Minds - Morpho Blue BalancerAdapter upgrade](./reports/2026-08-Mentat-Minds-Morpho-Blue-BalancerAdapter-Upgrade.pdf)
+18. [Centrifuge - V3.3 (2)](./reports/2026-08-Centrifuge-V3.3-Part2.pdf)
+19. [Centrifuge - Create3 gate](./reports/2026-09-Centrifuge-Create3-Gate.pdf)
+20. [Centrifuge - PR335 ShareManager](./reports/2026-09-Centrifuge-PR335-ShareManager.pdf)
+21. Undisclosed - Confidential primitives
+22. Undisclosed - Confidential defi 
+23. Undisclosed - Confidential wrappers
+24. [Centrifuge - PR382](./reports/2026-09-Centrifuge-PR382.pdf)
+25. [Centrifuge - September updates](./reports/2026-09-Centrifuge-September-Updates.pdf)
+26. Undisclosed - FHE type-safety updates
+27. [Centrifuge - Bug bounty (Alex Filippov)](./reports/2026-08-Centrifuge-Bug-Bounty-Alex-Filippov.pdf)
+28. [Centrifuge - Bug bounty (LonelySloth)](./reports/2026-09-Centrifuge-Bug-Bounty-LonelySloth.pdf)
+
 
 ## 2025
 
@@ -34,12 +52,12 @@ Reach out for a security review through Telegram [@windhustler](https://t.me/win
 14. [LI.FI - Eco cross-chain integration](./reports/2025.10.20-EcoFacet(v1.1.0).pdf)
 15. [Centrifuge - Chainlink CCIP cross-chain integration](./reports/2025-10-Centrifuge-CCIP-Report.pdf)
 16. Undisclosed - LayerZero cross-chain integration
-18. [LI.FI - LiFiIntentEscrowFacet](./reports/2025.11.20-LiFiIntentEscrowFacet(v1.0.0).pdf)
-19. [Probable - Polymarket UmaCtfAdapter fork](./reports/2025-11-Probable-Report.pdf)
-20. [Zaiffer - Confidential tokens](./reports/2025-12-Zaiffer.pdf)
-21. [LI.FI - Patcher v1.0.1](./reports/2025.12.08-Patcher(v1.0.1).pdf)
-22. Undisclosed - Token Auction
-23. [Centrifuge V3.1. - Axelar/Wormhole/LayerZero cross-chain integration (2)](./reports/2025-10-Centrifuge-V3.1-Report.pdf)
+17. [LI.FI - LiFiIntentEscrowFacet](./reports/2025.11.20-LiFiIntentEscrowFacet(v1.0.0).pdf)
+18. [Probable - Polymarket UmaCtfAdapter fork](./reports/2025-11-Probable-Report.pdf)
+19. [Zaiffer - Confidential tokens](./reports/2025-12-Zaiffer.pdf)
+20. [LI.FI - Patcher v1.0.1](./reports/2025.12.08-Patcher(v1.0.1).pdf)
+21. Undisclosed - Token Auction
+22. [Centrifuge V3.1. - Axelar/Wormhole/LayerZero cross-chain integration (2)](./reports/2025-10-Centrifuge-V3.1-Report.pdf)
 
 
 ## 2024
